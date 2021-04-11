@@ -5,3 +5,6 @@ logo: logo.jpeg
 github:
   is_project_page: false
   is_user_page: false
+pages:
+  - title: "Portfolio"
+    url: "portfolio.html"
