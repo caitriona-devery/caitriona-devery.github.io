@@ -21,12 +21,6 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-
-        <ul>
-        {% for item in site.data.pages %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-        {% endfor %}
-        </ul>
     </header>
     <section>
 
