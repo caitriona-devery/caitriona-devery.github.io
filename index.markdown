@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+
+![Pint Caitríona](image/caitriona_guinness.jpg "Caitríona Devery")
+
+Caitríona Devery is a writer from Offaly and based in Dublin
