@@ -2,6 +2,7 @@
 layout: page
 title: Writing
 permalink: /writing/
+order: 1
 ---
 
 I am the food and drink editor for [District Magazine](https://districtmagazine.ie/) and its food-related offshoot, [Char](https://districtmagazine.ie/category/food/). 

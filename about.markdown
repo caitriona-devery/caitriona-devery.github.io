@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+order: 3
 ---
 
 Caitriona Devery is a writer and research manager from Offaly, with interests in food, culture, community and the environment.

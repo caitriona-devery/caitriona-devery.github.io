@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Projects
+title: Other Projects
 permalink: /projects/
+order: 2
 ---
 
 ### The Story of Brickmaking in Pollagh, County Offaly
