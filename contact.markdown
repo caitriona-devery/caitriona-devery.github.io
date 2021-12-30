@@ -7,4 +7,6 @@ order: 4
 
 Email: <caitrionadevery@gmail.com>
 
-Twitter: <a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a>
+Twitter: [everytreecat](https://twitter.com/everytreecat)  
+
+Instagram: [everytreecat](https://www.instagram.com/everytreecat/?hl=en)
