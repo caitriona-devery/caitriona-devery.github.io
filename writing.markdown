@@ -2,7 +2,7 @@
 layout: page
 title: Writing
 permalink: /writing/
-order: 1
+order: 2
 ---
 
 ### District Magazine / Char

@@ -2,7 +2,7 @@
 layout: page
 title: Other Projects
 permalink: /projects/
-order: 2
+order: 3
 ---
 
 ### Places of Holes (2017)
