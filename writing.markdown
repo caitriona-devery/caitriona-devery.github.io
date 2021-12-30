@@ -41,11 +41,20 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 - [Lil Portie comes home: interview with Nick Reynolds](https://issuu.com/district.magazine/docs/district_guide_to_september_issuue) (Sep 2018)
 
 
+### Other features for District 
+
+- [The ethics of curiousity: interview with Jon Ronson](https://districtmagazine.ie/news/jon-ronson-on-the-ethics-of-curiosity/) (May 2019)
+
+- [Reproduction itself becomes more important than what is reproduced](https://districtmagazine.ie/news/caitriona-devery-reproduction-itself-becomes-more-important-than-what-is-reproduced/) (Aug 2017)
+
+
 ### Feast Journal
 I am a contributing editor for [FEAST](http://feastjournal.co.uk/) Journal. 
 FEAST was set up by Laura Mansfield and has evolved from a series of printed publications to include events, exhibitions and artists commissions, all centred around the making, sharing and consuming of food.
 
 - [Mixing it up: learning English through food with Heart & Parcel](http://s3-eu-west-1.amazonaws.com/feastassets/issues/Feast_SPICE.pdf) (Jan 2021)
+
+<img align="right" src="/image/irishsugar.jpg" title="Siucra ad (IFI)"/>
 
 - [Preserving salts: on culinary salt](https://feastjournal.co.uk/article/savouring-salts-the-journey-of-culinary-salt/) (Feb 2020)
 
@@ -60,14 +69,6 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 - [“From the kitchen to the table to the streets”. The meal as a tool for social justice](https://feastjournal.co.uk/article/from-the-kitchen-to-the-table-to-the-streets-the-meal-as-a-tool-for-social-justice/) with Laura Mansfield (2017)
 
 - [Restaurants and cafes: publics and politics](https://feastjournal.co.uk/article/restaurants-and-cafes-publics-and-politics/) (2017)
-
-
-
-### Other features for District 
-
-- [The ethics of curiousity: interview with Jon Ronson](https://districtmagazine.ie/news/jon-ronson-on-the-ethics-of-curiosity/) (May 2019)
-
-- [Reproduction itself becomes more important than what is reproduced](https://districtmagazine.ie/news/caitriona-devery-reproduction-itself-becomes-more-important-than-what-is-reproduced/)
 
 
 ### Rabble
