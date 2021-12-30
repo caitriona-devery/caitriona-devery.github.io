@@ -5,9 +5,31 @@ permalink: /writing/
 order: 2
 ---
 
-### District Magazine / Char
+### Food writing: District Magazine 
 
 I write features for [District Magazine](https://districtmagazine.ie/) and its food-related offshoot, [Char](https://districtmagazine.ie/category/food/). 
+
+- [How Buckfast became a symbol of Ireland's defiant youth culture] (https://districtmagazine.ie/food/how-buckfast-became-a-symbol-of-irelands-defiant-youth-culture/) (Dec 2021)
+
+- [How Hennessy became rap's favourite drink] (https://districtmagazine.ie/food/how-hennessy-became-raps-favourite-drink/) (Jun 2021)
+
+- [Thinking outside the bin: getting creative about food waste] (https://districtmagazine.ie/food/thinking-outside-the-bin-getting-creative-about-food-waste/) (Nov 2020) 
+
+- [Jonathan Trayte: meeting the artist making psychedelic sculptures out of fruit and veg] (https://districtmagazine.ie/food/meet-the-artist-making-psychedelic-sculptures-of-fruit-and-veg/) (Nov 2020)
+
+- [Mysteries of the deli: the jambon] (https://districtmagazine.ie/food/mysteries-of-the-deli-the-jambon/) (Oct 2020)
+
+- [Starter cultures: a primer on fermentation in Dublin] (https://districtmagazine.ie/food/starter-cultures/) (Oct 2020)
+
+- [Sweet dreams are made of cheese] (https://districtmagazine.ie/food/sweet-dreams-are-made-of-cheese/) (Oct 2020)
+
+- [Firing it up at Variety Jones] (https://districtmagazine.ie/food/firing-it-up-at-variety-jones/) (Oct 2020)
+
+- [Na Séasúir: The pop-up serving up tongues and tripe] (https://districtmagazine.ie/food/na-seasuir-the-pop-up-restaurant-serving-up-tongues-hearts-and-tripe/) (June 2019)
+
+- [Chef in focus: Holly Dalton] (https://districtmagazine.ie/food/chef-in-focus-holly-dalton-gertrude/)
+
+- 
  
 ### Feast Journal
 I am a contributing editor for [FEAST](http://feastjournal.co.uk/) Journal. 
