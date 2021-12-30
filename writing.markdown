@@ -9,7 +9,7 @@ order: 2
 
 I write food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). 
 
-<img align="right" src="/image/buckfast.jpg">
+<img align="right" src="/image/buckfast.png">
 
 - [How Buckfast became a symbol of Ireland's defiant youth culture](https://districtmagazine.ie/food/how-buckfast-became-a-symbol-of-irelands-defiant-youth-culture/) (Dec 2021)
 
