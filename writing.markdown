@@ -26,9 +26,9 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 
 - [Sweet dreams are made of cheese](https://districtmagazine.ie/food/sweet-dreams-are-made-of-cheese/) (Oct 2020)
 
-- [Firing it up at Variety Jones](https://districtmagazine.ie/food/firing-it-up-at-variety-jones/) (Oct 2020)
+<img align="right" src="/image/naseasuir.jpg"/>
 
-<img align="left" src="/image/naseasuir.jpg"/>
+- [Firing it up at Variety Jones](https://districtmagazine.ie/food/firing-it-up-at-variety-jones/) (Oct 2020)
 
 - [Na Séasúir: The pop-up serving up tongues and tripe](https://districtmagazine.ie/food/na-seasuir-the-pop-up-restaurant-serving-up-tongues-hearts-and-tripe/) (June 2019)
 
