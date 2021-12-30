@@ -24,9 +24,9 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 
 - [Starter cultures: a primer on fermentation in Dublin](https://districtmagazine.ie/food/starter-cultures/) (Oct 2020)
 
-- [Sweet dreams are made of cheese](https://districtmagazine.ie/food/sweet-dreams-are-made-of-cheese/) (Oct 2020)
-
 <img align="right" src="/image/naseasuir.jpg" title="Na Seasuir photography: George Voronov"/>
+
+- [Sweet dreams are made of cheese](https://districtmagazine.ie/food/sweet-dreams-are-made-of-cheese/) (Oct 2020)
 
 - [Firing it up at Variety Jones](https://districtmagazine.ie/food/firing-it-up-at-variety-jones/) (Oct 2020)
 
