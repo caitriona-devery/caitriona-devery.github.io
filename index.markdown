@@ -4,4 +4,4 @@ layout: home
 
 ![Pint Caitríona](image/russian_doll.jpg "Caitríona Devery")
 
-Caitríona Devery is a writer whose primary focus is food and food culture. She comes from Offaly and is based in Dublin. 
+Caitríona Devery is a writer primarily interested in food, art and heritage. She grew up in Offaly and is now based in Dublin. 
