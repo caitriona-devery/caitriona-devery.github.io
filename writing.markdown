@@ -28,6 +28,8 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 
 - [Firing it up at Variety Jones](https://districtmagazine.ie/food/firing-it-up-at-variety-jones/) (Oct 2020)
 
+<img align="left" src="/image/naseasuir.jpg"/>
+
 - [Na Séasúir: The pop-up serving up tongues and tripe](https://districtmagazine.ie/food/na-seasuir-the-pop-up-restaurant-serving-up-tongues-hearts-and-tripe/) (June 2019)
 
 - [Chef in focus: Holly Dalton](https://districtmagazine.ie/food/chef-in-focus-holly-dalton-gertrude/) (May 2019)
