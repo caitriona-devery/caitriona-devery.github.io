@@ -54,7 +54,7 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 - [Mixing it up: learning English through food with Heart & Parcel](http://s3-eu-west-1.amazonaws.com/feastassets/issues/Feast_SPICE.pdf) (Jan 2021)
 
-<img align="right" src="/image/irishsugar.jpg" title="Siucra ad (IFI)"/>
+<img align="right" src="/image/siucra.png" title="Siucra illustration by Fingerdoodles"/>
 
 - [Preserving salts: on culinary salt](https://feastjournal.co.uk/article/savouring-salts-the-journey-of-culinary-salt/) (Feb 2020)
 
