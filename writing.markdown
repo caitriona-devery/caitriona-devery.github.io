@@ -9,7 +9,7 @@ order: 2
 
 I write food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). 
 
-<img align="right" src="/image/buckfast.png"/>
+<img align="right" src="/image/buckfast.png" title="artwork: Paul Smith"/>
 
 
 - [How Buckfast became a symbol of Ireland's defiant youth culture](https://districtmagazine.ie/food/how-buckfast-became-a-symbol-of-irelands-defiant-youth-culture/) (Dec 2021)
@@ -26,7 +26,7 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 
 - [Sweet dreams are made of cheese](https://districtmagazine.ie/food/sweet-dreams-are-made-of-cheese/) (Oct 2020)
 
-<img align="right" src="/image/naseasuir.jpg"/>
+<img align="right" src="/image/naseasuir.jpg" title="Na Seasuir photography: George Voronov"/>
 
 - [Firing it up at Variety Jones](https://districtmagazine.ie/food/firing-it-up-at-variety-jones/) (Oct 2020)
 
