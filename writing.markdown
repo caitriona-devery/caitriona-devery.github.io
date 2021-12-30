@@ -27,13 +27,14 @@ I write features for [District Magazine](https://districtmagazine.ie/) and its f
 
 - [Na Séasúir: The pop-up serving up tongues and tripe] (https://districtmagazine.ie/food/na-seasuir-the-pop-up-restaurant-serving-up-tongues-hearts-and-tripe/) (June 2019)
 
-- [Chef in focus: Holly Dalton] (https://districtmagazine.ie/food/chef-in-focus-holly-dalton-gertrude/)
+- [Chef in focus: Holly Dalton] (https://districtmagazine.ie/food/chef-in-focus-holly-dalton-gertrude/) (May 2019)
 
-- 
- 
+
 ### Feast Journal
 I am a contributing editor for [FEAST](http://feastjournal.co.uk/) Journal. 
 FEAST was set up by Laura Mansfield and has evolved from a series of printed publications to include curated events, exhibitions and artists commissions, all centred around the making, sharing and consuming of food.
+
+- [Mixing it up: learning English through food with Heart & Parcel] (http://s3-eu-west-1.amazonaws.com/feastassets/issues/Feast_SPICE.pdf)
 
 ### Other features for District 
 
