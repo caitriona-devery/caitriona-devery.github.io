@@ -75,7 +75,7 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 - [Shout shout, let it all out](https://www.rabble.ie/2018/09/24/shout-shout-let-it-all-out/) feature on The Screamers (Sep 2018)
 
-<img align="right" src="/image/olwen.png" title="Olwen Fouéré in Tremble Tremble"/>
+<img align="right" src="/image/olwen2.jpg" title="Olwen Fouéré in Tremble Tremble"/>
 
 - [Social Fabric exhibition, curated by Kathryn Maguire](https://www.rabble.ie/2018/05/15/social-fabric/) (May 2018)
 
