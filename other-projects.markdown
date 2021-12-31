@@ -48,9 +48,11 @@ This project sketched the cultural memory and social history of early industrial
 
 
 
+
+### Consulate of Cornerhouse
 <img align="right" src="/image/archipelago.jpg" img style="padding: 10px"/>
 <div style="text-align: justify">
-### Consulate of Cornerhouse
+
 Art project, funded by Cornerhouse Micro Commissions, supported by Paul Hamlyn Foundation (2011).
 [Cornerhouse archive page](https://homemcr.org/exhibition/consulate-of-cornerhouse-a-project-by-archipelago/)
 
