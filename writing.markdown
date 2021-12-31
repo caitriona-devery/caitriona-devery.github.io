@@ -5,7 +5,7 @@ permalink: /writing/
 order: 2
 ---
 
-### Food writing: District Magazine 
+### District Magazine: food features and interviews
 
 I write food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). Selected examples:
 
@@ -70,8 +70,13 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 - [Restaurants and cafes: publics and politics](https://feastjournal.co.uk/article/restaurants-and-cafes-publics-and-politics/) (2017)
 
+### Ireland Eats
 
-### Rabble
+- [West Cork’s Weird and Wonderful Singing Frog Gardens](https://irelandeats.com/the-weird-and-wonderful-singing-frog-gardens/ (Nov 2021)
+
+- [West Cork Wasabi](https://irelandeats.com/west-cork-wasabi/) (Nov 2021)
+
+### Rabble 
 
 Selected articles:
 
@@ -94,8 +99,7 @@ Selected articles:
 - [Frontier Psychiatry, inteview with Alan Gilsenan on Ivor Browne documentary](https://www.rabble.ie/2017/06/08/frontier-psychiatry/) (Jun 2017)
 
 
-
-### Local history writing
+### Local history 
 
 [The Story of Brickmaking in Pollagh, County Offaly](https://offalyhistoryblog.wordpress.com/2019/12/07/the-story-of-brickmaking-in-pollagh-county-offaly-by-caitriona-devery) (Dec 2019)
 

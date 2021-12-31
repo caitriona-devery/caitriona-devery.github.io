@@ -16,13 +16,20 @@ Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) 
 <br>
 <br>
 
+### Earth Talks
+Conversations with researchers from UCD Earth Institute.
+<img align="right" src="/image/earthtalks.png" img style="padding: 15px"/>
+Interviews with researchers from science, engineering, arts, humanities and social sciences exploring how research is tackling some of the big environmental challenges of our time. <br>
+[earthtalks.ucd.ie](https://earthtalks.ucd.ie/)
+<br>
+<br>
+
 ### Places of Holes / Carbon Flux
-<img align="right" src="/image/carbonflux.jpg" title="Carbon Flux, image credit Rachael Champion" img style="padding: 15px"/>
 Ireland & Offaly County Council (2017). <br>
 Sculpture project with artist Rachael Champion, supported by Creative 
 Turraun Wetland, Lough Boora Discovery Park, Offaly. <br> 
 [Carbon Flux information and images](https://rachaelchampion.com/carbon-flux)
-
+<img align="right" src="/image/carbonflux.jpg" title="Carbon Flux, image credit Rachael Champion" img style="padding: 15px"/>
 
 <div style="text-align: justify">  ‘Places of Holes’ comes from the Irish name for Pollagh, 'Pollach', meaning holes. Pollagh Heritage Group facilitated artist Rachael Champion in her research and community engagement. Rachael responded by creating ‘Carbon Flux’, a site-specific sculptural installation in Turraun which addresses the shifting nature of regenerated bogs in the Irish Midlands. Turraun was the first Irish bog to produce peat for energy on an industrial scale and one of the first industrialised bogs to be rewetted for conservation. Turraun, like other wetlands, has been studied by climate scientists to gain an understanding of the impact of peat production on the carbon cycle. Carbon Flux takes inspiration from this history of industrialised peat extraction and the current role of climate science in these remarkable landscapes. Seven domed cylinders, varying in size and shades of Bord na Móna yellow, are clad in corrugated iron, a material commonly used in the everyday architecture of a working peat bog. The dome form is inspired by the chamber-system method of manually collecting greenhouse gas emission data. The interiors of the cylinders are filled with imagery of microscopic biological life that play a crucial role in the carbon cycle in the bogs. The sculptures are no longer on site. 
 </div>
