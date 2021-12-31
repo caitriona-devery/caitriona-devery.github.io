@@ -7,7 +7,7 @@ order: 2
 
 ### District Magazine: food features and interviews
 
-I write food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). Selected examples:
+Caitríona writes food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). Selected examples:
 
 <img align="right" src="/image/buckfast.png" title="artwork: Paul Smith" img style="padding: 10px"/>
 
@@ -18,7 +18,7 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 
 - [Thinking outside the bin: getting creative about food waste](https://districtmagazine.ie/food/thinking-outside-the-bin-getting-creative-about-food-waste/) (Nov 2020) 
 
-- [Jonathan Trayte: meeting the artist making psychedelic sculptures out of fruit and veg](https://districtmagazine.ie/food/meet-the-artist-making-psychedelic-sculptures-of-fruit-and-veg/) (Nov 2020)
+- [Jonathan Trayte: meeting the artist making psychedelic sculptures of fruit and veg](https://districtmagazine.ie/food/meet-the-artist-making-psychedelic-sculptures-of-fruit-and-veg/) (Nov 2020)
 
 - [Mysteries of the deli: the jambon](https://districtmagazine.ie/food/mysteries-of-the-deli-the-jambon/) (Oct 2020)
 
@@ -41,6 +41,7 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 - [Lil Portie comes home: interview with Nick Reynolds](https://issuu.com/district.magazine/docs/district_guide_to_september_issuue) (Sep 2018)
 
 
+
 ### Other features for District 
 
 - [The ethics of curiousity: interview with Jon Ronson](https://districtmagazine.ie/news/jon-ronson-on-the-ethics-of-curiosity/) (May 2019)
@@ -48,9 +49,10 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 - [Reproduction itself becomes more important than what is reproduced](https://districtmagazine.ie/news/caitriona-devery-reproduction-itself-becomes-more-important-than-what-is-reproduced/) (Aug 2017)
 
 
+
 ### Feast Journal
-I am a contributing editor for [FEAST](http://feastjournal.co.uk/) Journal. 
-FEAST was set up by Laura Mansfield and has evolved from a series of printed publications to include events, exhibitions and artists commissions, all centred around the making, sharing and consuming of food. Selected articles:
+I am a contributing editor for [FEAST Journal](http://feastjournal.co.uk/). 
+FEAST was set up by Laura Mansfield and has evolved from a series of printed publications to include events, exhibitions and artists commissions centred around the making, sharing and consuming of food. Selected articles:
 
 - [Mixing it up: learning English through food with Heart & Parcel](http://s3-eu-west-1.amazonaws.com/feastassets/issues/Feast_SPICE.pdf) (Jan 2021)
 
@@ -70,19 +72,23 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 - [Restaurants and cafes: publics and politics](https://feastjournal.co.uk/article/restaurants-and-cafes-publics-and-politics/) (2017)
 
+
+
 ### Ireland Eats
 
-- [West Cork’s Weird and Wonderful Singing Frog Gardens](https://irelandeats.com/the-weird-and-wonderful-singing-frog-gardens/ (Nov 2021)
+- [West Cork’s Weird and Wonderful Singing Frog Gardens](https://irelandeats.com/the-weird-and-wonderful-singing-frog-gardens/) (Nov 2021)
 
 - [West Cork Wasabi](https://irelandeats.com/west-cork-wasabi/) (Nov 2021)
 
-### Rabble 
+
+
+### Rabble magazine 
 
 Selected articles:
 
-- [Shout shout, let it all out](https://www.rabble.ie/2018/09/24/shout-shout-let-it-all-out/) feature on The Screamers (Sep 2018)
-
 <img align="right" src="/image/olwen2.jpg" title="Olwen Fouéré in Tremble Tremble" img style="padding: 10px"/>
+
+- [Shout shout, let it all out](https://www.rabble.ie/2018/09/24/shout-shout-let-it-all-out/) feature on The Screamers (Sep 2018)
 
 - [Social Fabric exhibition, curated by Kathryn Maguire](https://www.rabble.ie/2018/05/15/social-fabric/) (May 2018)
 
@@ -97,6 +103,8 @@ Selected articles:
 - [The protesting crowd, inteview with Joy Gerrard](https://www.rabble.ie/2017/06/16/the-protesting-crowd/) (Jun 2017)
 
 - [Frontier Psychiatry, inteview with Alan Gilsenan on Ivor Browne documentary](https://www.rabble.ie/2017/06/08/frontier-psychiatry/) (Jun 2017)
+
+
 
 
 ### Local history 

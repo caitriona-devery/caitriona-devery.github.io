@@ -6,9 +6,8 @@ order: 3
 ---
 
 
+<img align="right" src="/image/nervous_state.png" img style="padding: 15px"/> Show on Dublin Digital Radio (2020-ongoing) <br>
 ### Nervous State 
-<img align="right" src="/image/nervous_state.png" img style="padding: 15px"/> Show on Dublin Digital Radio (2020-ongoing) <br> 
-
 <div style="text-align: justify">  
 Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio.</div> <br>
 [Listen back on Spotify](https://open.spotify.com/show/6QCLihiOcZEZQOg12YUcDm?si=cfc2d62fe0764845) (and other podcast sites). 
@@ -17,9 +16,9 @@ Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) 
 <br>
 
 
-### Earth Talks
 <img align="right" src="/image/EarthTalks.png" img style="padding: 15px"/>
 Conversations with researchers from UCD Earth Institute (2020-ongoing)
+### Earth Talks
 
 Interviews with researchers from science, engineering, arts, humanities and social sciences exploring how research is tackling some of the big environmental challenges of our time. <br><br>
 [earthtalks.ucd.ie](https://earthtalks.ucd.ie/)
@@ -47,9 +46,9 @@ This project sketched the cultural memory and social history of early industrial
 
 
 
-### Consulate of Cornerhouse
 <img align="right" src="/image/archipelago.jpg" img style="padding: 10px"/>
 <div style="text-align: justify">
+### Consulate of Cornerhouse
 Art project, funded by Cornerhouse Micro Commissions, supported by Paul Hamlyn Foundation (2011).
 [Cornerhouse archive page](https://homemcr.org/exhibition/consulate-of-cornerhouse-a-project-by-archipelago/)
 
