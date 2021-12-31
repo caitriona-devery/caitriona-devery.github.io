@@ -18,8 +18,8 @@ Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) 
 
 
 <img align="right" src="/image/EarthTalks.png" img style="padding: 15px"/>
-Conversations with researchers from UCD Earth Institute (2020-ongoing)
 ### Earth Talks
+Conversations with researchers from UCD Earth Institute (2020-ongoing)
 
 Interviews with researchers from science, engineering, arts, humanities and social sciences exploring how research is tackling some of the big environmental challenges of our time. <br><br>
 [earthtalks.ucd.ie](https://earthtalks.ucd.ie/)
