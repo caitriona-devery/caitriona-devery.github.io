@@ -107,11 +107,11 @@ Selected articles:
 
 
 
+
 ### Local history 
 
-[The Story of Brickmaking in Pollagh, County Offaly](https://offalyhistoryblog.wordpress.com/2019/12/07/the-story-of-brickmaking-in-pollagh-county-offaly-by-caitriona-devery) (Dec 2019)
-
 <img align="right" src="/image/brick_book.jpg" img style="padding: 10px">
+[The Story of Brickmaking in Pollagh, County Offaly](https://offalyhistoryblog.wordpress.com/2019/12/07/the-story-of-brickmaking-in-pollagh-county-offaly-by-caitriona-devery) (Dec 2019)
 
 Local history book written with Pollagh Heritage Group, supported by Offaly County Council. This short book details the evolution of the village of Pollagh as shaped by its brickmaking industry which flourished alongside the Grand Canal in the nineteenth century. The book gathers together interviews, written records, archival materials and photographs and provides insights into the origins of the industry, the brickmaking process, the expansion of the canal, how the bricks were transported and sold, their uses in Offaly and in Dublin, and how the industry came to decline. It showcases a unique heritage and documents the determination and hard work that was a necessary part of survival for Pollagh families in the nineteenth century and beyond.
 
