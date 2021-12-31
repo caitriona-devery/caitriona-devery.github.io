@@ -75,6 +75,8 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 - [Shout shout, let it all out](https://www.rabble.ie/2018/09/24/shout-shout-let-it-all-out/) feature on The Screamers (Sep 2018)
 
+<img align="right" src="/image/olwen.png" title="Olwen Fouéré in Tremble Tremble"/>
+
 - [Social Fabric exhibition, curated by Kathryn Maguire](https://www.rabble.ie/2018/05/15/social-fabric/) (May 2018)
 
 - [Shitty city, interview with Lorcan Sirr](https://www.rabble.ie/2018/05/14/shitty-city/) (May 2018)
@@ -97,5 +99,5 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 <img align="right" src="/image/brick_book.jpg">
 
-Local history book written with Pollagh Heritage Group, supported by Offaly County Council This short book details the evolution of the village as shaped by its brickmaking industry which developed as a result of the development of the Grand Canal in the nineteenth century. The book gathers together interviews, written records, archival materials and photographs and provides an insights into the origins of the industry, the brickmaking process, the expansion of the canal, how the bricks were transported and sold, their uses in Offaly and in Dublin, and how the industry came to decline. It offers social, cultural and architectural insights into a unique heritage and documents the determination and hard work that was a necessary part of survival for Pollagh families in the nineteenth century and beyond.
+Local history book written with Pollagh Heritage Group, supported by Offaly County Council. This short book details the evolution of the village of Pollagh as shaped by its brickmaking industry which developed as a result of the development of the Grand Canal in the nineteenth century. The book gathers together interviews, written records, archival materials and photographs and provides an insights into the origins of the industry, the brickmaking process, the expansion of the canal, how the bricks were transported and sold, their uses in Offaly and in Dublin, and how the industry came to decline. It offers social, cultural and architectural insights into a unique heritage and documents the determination and hard work that was a necessary part of survival for Pollagh families in the nineteenth century and beyond.
 
