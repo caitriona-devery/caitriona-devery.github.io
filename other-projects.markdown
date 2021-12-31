@@ -6,20 +6,19 @@ order: 3
 ---
 
 ### Places of Holes / Carbon Flux
-Art project with artist Rachael Champion, supported by Creative Ireland and Offaly County Council (2017).
-Turraun Wetland, Lough Boora Discovery Park, Offaly.
+Art project with artist Rachael Champion, supported by Creative Ireland and Offaly County Council (2017). <br>
+Turraun Wetland, Lough Boora Discovery Park, Offaly. <br> 
 [Carbon Flux link](https://rachaelchampion.com/carbon-flux)
 
 
-<img align="right" src="/image/carbonflux.jpg" title="Carbon Flux, image Rachael Champion"/>
+<img align="right" src="/image/bogcultures.jpg" title="Bog Cultures event image, credit Rachael Champion"/>
 ‘Places of Holes’ comes from the Irish name for Pollagh, 'Pollach', meaning holes. Pollagh Heritage Group facilitated artist Rachael Champion in her research and community engagement. Rachael responded by creating ‘Carbon Flux’, a site-specific sculptural installation in Turraun which addresses the shifting nature of regenerated bogs in the Irish Midlands. Turraun was the first Irish bog to produce peat for energy on an industrial scale and one of the first industrialised bogs to be rewetted for conservation. Turraun, like other wetlands, has been studied by climate scientists to gain an understanding of the impact of peat production on the carbon cycle. Carbon Flux takes inspiration from this history of industrialised peat extraction and the current role of climate science in these remarkable landscapes. Seven domed cylinders, varying in size and shades of Bord na Móna yellow, are clad in corrugated iron, a material commonly used in the everyday architecture of a working peat bog. The dome form is inspired by the chamber-system method of manually collecting greenhouse gas emission data. The interiors of the cylinders are filled with imagery of microscopic biological life that play a crucial role in the carbon cycle in the bogs. The sculptures are no longer on site. 
 
 
 ### Memories of Turraun 
-Oral history project with Pollagh Heritage Group, funded by the Heritage Council (2015).
-[Memories of Turraun Facebook](https://www.facebook.com/turraun/)
+Oral history project with Pollagh Heritage Group, funded by the Heritage Council (2015).<br> [Memories of Turraun Facebook](https://www.facebook.com/turraun/)
 
-<img align="right" src="/image/turraun.jpg" title="Circus performers in Turraun, 1940s"/>
+<img align="right" src="/image/Turraun.jpg" title="Circus performers in Turraun, 1940s"/>
 This project sketched the cultural memory and social history of early industrial peat harvesting in Turraun, in Pollagh, County Offaly, one of the first sites of its kind in Ireland. The site is very important in Irish industrial history and the history of peat extraction in Ireland. Early industry was set up by local man, Kieran Farrelly and then taken over by Sir John Purser Griffith. Later years saw the site evolve under the management of the Turf Development Board and Bórd na Móna.  This project used oral history techniques to interview people who worked in Turraun during the height of the peat production period in the 1940s and 1950s. We created an exhibition of photographs with storytelling and the interviews are available through Tullamore library.
 
 
