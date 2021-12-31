@@ -7,7 +7,7 @@ order: 1
 
 <img align="left" src="/image/caitriona_guinness.jpg" img style="padding: 15px"/>
 
-Caitriona Devery is a writer and research manager with interests in food, art, heritage, community and the environment. She is from Offaly but now lives mainly in Dublin.
+Caitriona Devery is a writer and research manager with interests in food, art, heritage, community and the environment. 
 
 From 2018-2020 she was the food editor for Dublin’s [District Magazine](https://districtmagazine.ie/) and its food offshoot, Char, and continues to write features for Char. She is a contributing editor to UK-based art and food publication [Feast Journal](https://feastjournal.co.uk/) and is a member of the [Irish Food Writers’ Guild](https://www.irishfoodwritersguild.ie/).
   

@@ -38,7 +38,7 @@ Caitríona writes food features for [District Magazine](https://districtmagazine
 
 - [Making space: interview with Jennie Moran of Luncheonette](https://issuu.com/district.magazine/docs/april_19_guide_issuu/84) (Apr 2019)
 
-- [Lil Portie comes home: interview with Nick Reynolds](https://issuu.com/district.magazine/docs/district_guide_to_september_issuue) (Sep 2018)
+- [Lil Portie comes home: interview with Nick Reynolds](https://issuu.com/district.magazine/docs/district_guide_to_september_issuue/86) (Sep 2018)
 
 
 
