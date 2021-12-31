@@ -51,7 +51,7 @@ Caitríona writes food features for [District Magazine](https://districtmagazine
 
 
 ### Feast Journal
-I am a contributing editor for [FEAST Journal](http://feastjournal.co.uk/). 
+Caitríona is a contributing editor for [FEAST Journal](http://feastjournal.co.uk/). 
 FEAST was set up by Laura Mansfield and has evolved from a series of printed publications to include events, exhibitions and artists commissions centred around the making, sharing and consuming of food. Selected articles:
 
 - [Mixing it up: learning English through food with Heart & Parcel](http://s3-eu-west-1.amazonaws.com/feastassets/issues/Feast_SPICE.pdf) (Jan 2021)
