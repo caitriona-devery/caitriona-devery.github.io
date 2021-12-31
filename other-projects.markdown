@@ -4,7 +4,7 @@ title: Other Projects
 permalink: /projects/
 order: 3
 ---
-
+<div style="text-align: justify">  
 <img align="right" src="/image/nervous_state.png"/>
 ### Nervous State radio show 
 Dublin Digital Radio (2020-ongoing) <br> 
@@ -37,4 +37,4 @@ Art project, funded by Cornerhouse Micro Commissions, supported by Paul Hamlyn F
 <img align="right" src="/image/archipelago.jpg"/>
 Caitríona was part of Manchester art collective Archipelago which created the project Consulate of Cornerhouse. Consulate of Cornerhouse was an art event in a vacant retail unit at The Triangle Shopping centre and the Cornerhouse cafebar. Exploring the emancipatory potential of the new ‘participatory’ trend in arts organisations, the Consulate re-imagined essential elements of Cornerhouse off-site – operating as Cornerhouse ‘on foreign soil’. Visitors entered a fabrication of the Director’s office, complete with programming plans for possible future projects. Archipelago worked to realise one of these projects; that of memorialising the current Cornerhouse staff with face casts, which were displayed in the ‘real’ Cornerhouse. Archipelago were a group of practitioners who shared a common interest to artistically engage with contemporary ideas of organisational structures and how this affects artists, curators, institutions, and audiences.
 
- 
+</div>
