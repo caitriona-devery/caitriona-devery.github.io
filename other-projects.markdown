@@ -10,8 +10,9 @@ order: 3
 Show on Dublin Digital Radio (2020-ongoing) <br> 
 
 <div style="text-align: justify">  
-Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio. <br>[Listen back on Spotify](https://open.spotify.com/show/6QCLihiOcZEZQOg12YUcDm?si=cfc2d62fe0764845) (and other podcast sites). 
-</div>
+Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio.</div> <br>
+[Listen back on Spotify](https://open.spotify.com/show/6QCLihiOcZEZQOg12YUcDm?si=cfc2d62fe0764845) (and other podcast sites). 
+
 <br>
 <br>
 
@@ -20,7 +21,7 @@ Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) 
 Ireland & Offaly County Council (2017). <br>
 Sculpture project with artist Rachael Champion, supported by Creative 
 Turraun Wetland, Lough Boora Discovery Park, Offaly. <br> 
-[Carbon Flux information and images(https://rachaelchampion.com/carbon-flux)
+[Carbon Flux information and images](https://rachaelchampion.com/carbon-flux)
 
 
 <div style="text-align: justify">  ‘Places of Holes’ comes from the Irish name for Pollagh, 'Pollach', meaning holes. Pollagh Heritage Group facilitated artist Rachael Champion in her research and community engagement. Rachael responded by creating ‘Carbon Flux’, a site-specific sculptural installation in Turraun which addresses the shifting nature of regenerated bogs in the Irish Midlands. Turraun was the first Irish bog to produce peat for energy on an industrial scale and one of the first industrialised bogs to be rewetted for conservation. Turraun, like other wetlands, has been studied by climate scientists to gain an understanding of the impact of peat production on the carbon cycle. Carbon Flux takes inspiration from this history of industrialised peat extraction and the current role of climate science in these remarkable landscapes. Seven domed cylinders, varying in size and shades of Bord na Móna yellow, are clad in corrugated iron, a material commonly used in the everyday architecture of a working peat bog. The dome form is inspired by the chamber-system method of manually collecting greenhouse gas emission data. The interiors of the cylinders are filled with imagery of microscopic biological life that play a crucial role in the carbon cycle in the bogs. The sculptures are no longer on site. 
