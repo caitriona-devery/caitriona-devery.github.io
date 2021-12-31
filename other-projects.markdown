@@ -19,7 +19,7 @@ Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) 
 
 ### Earth Talks
 <img align="right" src="/image/EarthTalks.png" img style="padding: 15px"/>
-Conversations with researchers from UCD Earth Institute.
+Conversations with researchers from UCD Earth Institute (2020-ongoing)
 
 Interviews with researchers from science, engineering, arts, humanities and social sciences exploring how research is tackling some of the big environmental challenges of our time. <br><br>
 [earthtalks.ucd.ie](https://earthtalks.ucd.ie/)
@@ -28,8 +28,7 @@ Interviews with researchers from science, engineering, arts, humanities and soci
 <br>
 ### Carbon Flux
 <img align="right" src="/image/carbonflux.jpg" title="Carbon Flux, image credit Rachael Champion" img style="padding: 15px"/>
-Sculpture project with artist Rachael Champion, supported by Creative Ireland & Offaly County Council (2017).
-Turraun Wetland, Lough Boora Discovery Park, Offaly. <br> 
+Sculpture project with artist Rachael Champion, supported by Creative Ireland & Offaly County Council (2017), Turraun Wetland, Lough Boora Discovery Park, Offaly. <br> 
 [Carbon Flux information and images](https://rachaelchampion.com/carbon-flux)
 <div style="text-align: justify"> As part of the 'Places of Holes' project, Pollagh Heritage Group facilitated artist Rachael Champion with research and community engagement to create ‘Carbon Flux’, a site-specific sculptural installation in Turraun which addresses the shifting nature of regenerated bogs in the Irish Midlands. Turraun was the first Irish bog to produce peat for energy on an industrial scale and one of the first industrialised bogs to be rewetted for conservation. An event was held in Pollagh in November 2017 featuring talks on climate science, conservation and contemporary art in the bog. The sculptures are no longer on site. 
 </div>
@@ -48,11 +47,11 @@ This project sketched the cultural memory and social history of early industrial
 
 
 
-### Consulate of Cornerhouse: a project by Archipelago 
+### Consulate of Cornerhouse
+<img align="right" src="/image/archipelago.jpg" img style="padding: 10px"/>
+<div style="text-align: justify">
 Art project, funded by Cornerhouse Micro Commissions, supported by Paul Hamlyn Foundation (2011).
 [Cornerhouse archive page](https://homemcr.org/exhibition/consulate-of-cornerhouse-a-project-by-archipelago/)
 
-<img align="right" src="/image/archipelago.jpg" img style="padding: 10px"/>
-<div style="text-align: justify">
 Caitríona was part of Manchester art collective Archipelago which created the project Consulate of Cornerhouse. Consulate of Cornerhouse was an art event in a vacant retail unit at The Triangle Shopping centre and the Cornerhouse cafebar. Exploring the emancipatory potential of the new ‘participatory’ trend in arts organisations, the Consulate re-imagined essential elements of Cornerhouse off-site – operating as Cornerhouse ‘on foreign soil’. Archipelago were a group of practitioners who shared a common interest to artistically engage with contemporary ideas of organisational structures and how this affects artists, curators, institutions, and audiences.
 </div>
