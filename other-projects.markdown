@@ -5,10 +5,10 @@ permalink: /projects/
 order: 3
 ---
 
-### Nervous State, Dublin Digital Radio
-2020-ongoing
-
 <img align="right" src="/image/nervous_state.png"/>
+### Nervous State, Dublin Digital Radio
+2020-ongoing <br> 
+
 Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio. [Listen back on Spotify](https://open.spotify.com/show/6QCLihiOcZEZQOg12YUcDm?si=cfc2d62fe0764845) (or wherever you listen to podcasts). 
 
 ### Places of Holes / Carbon Flux
