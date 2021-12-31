@@ -27,7 +27,7 @@ Interviews with researchers from science, engineering, arts, humanities and soci
 <br>
 ### Carbon Flux
 <img align="right" src="/image/carbonflux.jpg" title="Carbon Flux, image credit Rachael Champion" img style="padding: 15px"/>
-Ireland & Offaly County Council (2017). <br>
+supported by Creative Ireland & Offaly County Council (2017). <br>
 Sculpture project with artist Rachael Champion, supported by Creative 
 Turraun Wetland, Lough Boora Discovery Park, Offaly. <br> 
 [Carbon Flux information and images](https://rachaelchampion.com/carbon-flux)
