@@ -20,7 +20,8 @@ Oral history project with Pollagh Heritage Group, funded by the Heritage Council
 
 <img align="right" src="/image/Turraun.jpg" title="Circus performers in Turraun, 1940s"/>
 This project sketched the cultural memory and social history of early industrial peat harvesting in Turraun, in Pollagh, County Offaly, one of the first sites of its kind in Ireland. The site is very important in Irish industrial history and the history of peat extraction in Ireland. Early industry was set up by local man, Kieran Farrelly and then taken over by Sir John Purser Griffith. Later years saw the site evolve under the management of the Turf Development Board and Bórd na Móna.  This project used oral history techniques to interview people who worked in Turraun during the height of the peat production period in the 1940s and 1950s. We created an exhibition of photographs with storytelling and the interviews are available through Tullamore library.
-
+<br>
+<br>
 
 
 
