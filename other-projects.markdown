@@ -5,9 +5,9 @@ permalink: /projects/
 order: 3
 ---
 
-<img align="right" src="/image/nervous_state.png" img style="padding: 15px"/>
+
 ### Nervous State 
-Show on Dublin Digital Radio (2020-ongoing) <br> 
+<img align="right" src="/image/nervous_state.png" img style="padding: 15px"/> Show on Dublin Digital Radio (2020-ongoing) <br> 
 
 <div style="text-align: justify">  
 Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio.</div> <br>
@@ -16,8 +16,9 @@ Caitríona is part of the team behind Nervous State, a monthly (or thereabouts) 
 <br>
 <br>
 
-<img align="right" src="/image/EarthTalks.png" img style="padding: 15px"/>
+
 ### Earth Talks
+<img align="right" src="/image/EarthTalks.png" img style="padding: 15px"/>
 Conversations with researchers from UCD Earth Institute.
 
 Interviews with researchers from science, engineering, arts, humanities and social sciences exploring how research is tackling some of the big environmental challenges of our time. <br><br>
@@ -27,7 +28,6 @@ Interviews with researchers from science, engineering, arts, humanities and soci
 <br>
 ### Carbon Flux
 <img align="right" src="/image/carbonflux.jpg" title="Carbon Flux, image credit Rachael Champion" img style="padding: 15px"/>
-<br>
 Sculpture project with artist Rachael Champion, supported by Creative Ireland & Offaly County Council (2017).
 Turraun Wetland, Lough Boora Discovery Park, Offaly. <br> 
 [Carbon Flux information and images](https://rachaelchampion.com/carbon-flux)
