@@ -7,7 +7,7 @@ order: 2
 
 ### Food writing: District Magazine 
 
-I write food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). 
+I write food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). Selected examples:
 
 <img align="right" src="/image/buckfast.png" title="artwork: Paul Smith"/>
 
@@ -50,7 +50,7 @@ I write food features for [District Magazine](https://districtmagazine.ie/) and 
 
 ### Feast Journal
 I am a contributing editor for [FEAST](http://feastjournal.co.uk/) Journal. 
-FEAST was set up by Laura Mansfield and has evolved from a series of printed publications to include events, exhibitions and artists commissions, all centred around the making, sharing and consuming of food.
+FEAST was set up by Laura Mansfield and has evolved from a series of printed publications to include events, exhibitions and artists commissions, all centred around the making, sharing and consuming of food. Selected articles:
 
 - [Mixing it up: learning English through food with Heart & Parcel](http://s3-eu-west-1.amazonaws.com/feastassets/issues/Feast_SPICE.pdf) (Jan 2021)
 
@@ -72,6 +72,8 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 
 ### Rabble
+
+Selected articles:
 
 - [Shout shout, let it all out](https://www.rabble.ie/2018/09/24/shout-shout-let-it-all-out/) feature on The Screamers (Sep 2018)
 
@@ -99,5 +101,5 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 <img align="right" src="/image/brick_book.jpg">
 
-Local history book written with Pollagh Heritage Group, supported by Offaly County Council. This short book details the evolution of the village of Pollagh as shaped by its brickmaking industry which developed as a result of the development of the Grand Canal in the nineteenth century. The book gathers together interviews, written records, archival materials and photographs and provides an insights into the origins of the industry, the brickmaking process, the expansion of the canal, how the bricks were transported and sold, their uses in Offaly and in Dublin, and how the industry came to decline. It offers social, cultural and architectural insights into a unique heritage and documents the determination and hard work that was a necessary part of survival for Pollagh families in the nineteenth century and beyond.
+Local history book written with Pollagh Heritage Group, supported by Offaly County Council. This short book details the evolution of the village of Pollagh as shaped by its brickmaking industry which flourished alongside the Grand Canal in the nineteenth century. The book gathers together interviews, written records, archival materials and photographs and provides insights into the origins of the industry, the brickmaking process, the expansion of the canal, how the bricks were transported and sold, their uses in Offaly and in Dublin, and how the industry came to decline. It showcases a unique heritage and documents the determination and hard work that was a necessary part of survival for Pollagh families in the nineteenth century and beyond.
 
