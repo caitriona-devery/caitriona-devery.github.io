@@ -51,11 +51,9 @@ This project sketched the cultural memory and social history of early industrial
 
 ### Consulate of Cornerhouse
 <img align="right" src="/image/archipelago.jpg" img style="padding: 10px"/>
-<div style="text-align: justify">
-
 Art project, funded by Cornerhouse Micro Commissions, supported by Paul Hamlyn Foundation (2011).
 <br>
 [Cornerhouse archive page](https://homemcr.org/exhibition/consulate-of-cornerhouse-a-project-by-archipelago/)
-
+<div style="text-align: justify">
 Caitríona was part of Manchester art collective Archipelago which created the project Consulate of Cornerhouse. Consulate of Cornerhouse was an art event in a vacant retail unit at The Triangle Shopping centre and the Cornerhouse cafebar. Exploring the emancipatory potential of the new ‘participatory’ trend in arts organisations, the Consulate re-imagined essential elements of Cornerhouse off-site – operating as Cornerhouse ‘on foreign soil’. Archipelago were a group of practitioners who shared a common interest to artistically engage with contemporary ideas of organisational structures and how this affects artists, curators, institutions, and audiences.
 </div>
