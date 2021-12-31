@@ -13,5 +13,5 @@ From 2018-2020 she was the food editor for Dublin’s [District Magazine](https:
   
 She has curated art and heritage projects including [Carbon Flux](https://rachaelchampion.com/carbon-flux) sculpture installation in Turraun Wetland with artist Rachael Champion, and the oral history project [Memories of Turraun](https://www.facebook.com/turraun/). Both explore the cultural, social and environmental history of Irish bogs. In 2019 she wrote a local history book on Brickmaking in County Offaly with Pollagh Heritage Group. 
 
-Caitriona works as a research manager at UCD’s [Earth Institute](https://www.ucd.ie/earth/). 
+Caitriona works as a research manager at University College Dublin’s [Earth Institute](https://www.ucd.ie/earth/). 
 
