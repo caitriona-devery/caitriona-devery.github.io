@@ -1,7 +1,8 @@
 ---
 layout: home
 ---
-<img align="left" src="/image/russian_doll.jpg" img style="padding: 15px"/>
-Caitríona Devery is a writer from Offaly, based in Dublin. She writes mostly about food, art and heritage and is part of the team behind Nervous State on Dublin Digital Radio. 
+![Pint Caitríona](image/russian_doll.jpg "Caitríona Devery")
+
+Caitríona Devery is a writer primarily interested in food, art and heritage. She grew up in Offaly and is now based in Dublin. 
  
 
