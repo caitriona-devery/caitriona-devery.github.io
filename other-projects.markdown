@@ -9,8 +9,7 @@ order: 3
 <img align="right" src="/image/nervous_state.png" img style="padding: 15px"/> 
 ### Nervous State 
 Show on Dublin Digital Radio (2020-ongoing) <br>
-<div style="text-align: justify">  
-Caitríona is part of the team behind <a href=http://https://listen.dublindigitalradio.com/resident/nervous-state/>Nervous State</a>, a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio.</div> <br>
+Caitríona is part of the team behind [Nervous State](http://https://listen.dublindigitalradio.com/resident/nervous-state/), a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio.</div> <br>
 [Listen back on Spotify](https://open.spotify.com/show/6QCLihiOcZEZQOg12YUcDm?si=cfc2d62fe0764845) (also available on other podcast sites). 
 
 <br>
