@@ -28,7 +28,7 @@ Interviews with researchers from science, engineering, arts, humanities and soci
 <br>
 
 ### Carbon Flux
-<img align="right" src="/image/carbonflux.jpg" title="Carbon Flux, image credit Rachael Champion" img style="padding: 15px"/>
+<img align="right" src="/image/carbonflux.jpg" title="Carbon Flux" img style="padding: 15px"/>
 Sculpture project with artist Rachael Champion, supported by Creative Ireland & Offaly County Council (2017), Turraun Wetland, Lough Boora Discovery Park, Offaly. <br> 
 [Carbon Flux information and images](https://rachaelchampion.com/carbon-flux)
 <div style="text-align: justify"> As part of the 'Places of Holes' project, Pollagh Heritage Group facilitated artist Rachael Champion with research and community engagement to create ‘Carbon Flux’, a site-specific sculptural installation in Turraun which addresses the shifting nature of regenerated bogs in the Irish Midlands. Turraun was the first Irish bog to produce peat for energy on an industrial scale and one of the first industrialised bogs to be rewetted for conservation. An event was held in Pollagh in November 2017 featuring talks on climate science, conservation and contemporary art in the bog. The sculptures are no longer on site. 

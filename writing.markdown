@@ -64,11 +64,11 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 - [Bittersweet beet: a history of Irish sugar](https://feastjournal.co.uk/article/bittersweet-beet-a-history-of-irish-sugar/) (July 2019)
 
-- [The sweetest feeling](https://feastjournal.co.uk/article/the-sweetest-feeling/) with Stephen Barrett (July 2019)
+- [The sweetest feeling](https://feastjournal.co.uk/article/the-sweetest-feeling/), with Stephen Barrett (July 2019)
 
 - [Playing chicken: on London's Chicken Connoisseur](https://feastjournal.co.uk/article/playing-chicken/) (July 2018)
 
-- [“From the kitchen to the table to the streets”. The meal as a tool for social justice](https://feastjournal.co.uk/article/from-the-kitchen-to-the-table-to-the-streets-the-meal-as-a-tool-for-social-justice/) with Laura Mansfield (2017)
+- [“From the kitchen to the table to the streets”. The meal as a tool for social justice](https://feastjournal.co.uk/article/from-the-kitchen-to-the-table-to-the-streets-the-meal-as-a-tool-for-social-justice/), with Laura Mansfield (2017)
 
 - [Restaurants and cafes: publics and politics](https://feastjournal.co.uk/article/restaurants-and-cafes-publics-and-politics/) (2017)
 
@@ -110,7 +110,7 @@ Selected articles:
 
 ### Local history 
 
-<img align="right" src="/image/brick_book.jpg" img style="padding: 10px">
+<img align="right" src="/image/brick_book.jpg" img style="padding: 10px" title="Poster by Shelly Lou / Michelle Feeney">
 [The Story of Brickmaking in Pollagh, County Offaly](https://offalyhistoryblog.wordpress.com/2019/12/07/the-story-of-brickmaking-in-pollagh-county-offaly-by-caitriona-devery) (Dec 2019)
 
 Local history book written with Pollagh Heritage Group, supported by Offaly County Council. This short book details the evolution of the village of Pollagh as shaped by its brickmaking industry which flourished alongside the Grand Canal in the nineteenth century. The book gathers together interviews, written records, archival materials and photographs and provides insights into the origins of the industry, the brickmaking process, the expansion of the canal, how the bricks were transported and sold, their uses in Offaly and in Dublin, and how the industry came to decline. It showcases a unique heritage and documents the determination and hard work that was a necessary part of survival for Pollagh families in the nineteenth century and beyond.
