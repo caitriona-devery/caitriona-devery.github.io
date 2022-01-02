@@ -4,9 +4,7 @@ title: Contact
 permalink: /contact/
 order: 4
 ---
-
-<src="/image/icecream.jpg" img style="padding: 10px"/>
- 
+<img src="/image/icecream.jpg" img style="padding: 10px"/>
 <br>
 Email: [caitrionadevery@gmail.com](caitrionadevery@gmail.com)
 
