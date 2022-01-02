@@ -5,11 +5,8 @@ permalink: /contact/
 order: 4
 ---
 
-<img align="right" src="/image/icecream.jpg"/>
+<img align="right" src="/image/icecream.jpg"img style="padding: 15px"/>
 
-
-
-<br>
 Email: <caitrionadevery@gmail.com>
 
 Twitter: [everytreecat](https://twitter.com/everytreecat)  
