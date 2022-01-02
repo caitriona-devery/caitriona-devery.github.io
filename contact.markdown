@@ -5,8 +5,7 @@ permalink: /contact/
 order: 4
 ---
 
-<src="/image/icecream.jpg" img style="padding: 15px"/>
-
+<img align="right" src="/image/icecream.jpg" img style="padding: 15px"/>
 
 <br>
 Email: <caitrionadevery@gmail.com>
