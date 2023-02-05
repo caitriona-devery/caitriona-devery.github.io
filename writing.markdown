@@ -12,7 +12,7 @@ Food features for [District Magazine](https://districtmagazine.ie/) and its offs
 <img align="right" src="/image/buckfast.png" title="artwork: Paul Smith" img style="padding: 10px"/>
 
 
-- [How Buckfast became a symbol of Ireland's defiant youth culture](https://districtmagazine.ie/food/how-buckfast-became-a-symbol-of-irelands-defiant-youth-culture/) (Dec 2021)
+- [For the love of Buckfast: how we came to love tonic wine](https://districtmagazine.ie/food/how-buckfast-became-a-symbol-of-irelands-defiant-youth-culture/) (Dec 2021)
 
 - [How Hennessy became rap's favourite drink](https://districtmagazine.ie/food/how-hennessy-became-raps-favourite-drink/) (Jun 2021)
 
