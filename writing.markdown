@@ -7,7 +7,7 @@ order: 2
 
 ### District Magazine: food features and interviews
 
-Caitríona writes food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). Selected examples:
+Food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). 
 
 <img align="right" src="/image/buckfast.png" title="artwork: Paul Smith" img style="padding: 10px"/>
 
@@ -75,6 +75,8 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 
 ### Ireland Eats
+
+- [Irish Bakeries: The Griddle Bread Revival](https://irelandeats.com/irish-bakeries-the-griddle-bread-revival/) (Sept 2022)
 
 - [West Cork’s Weird and Wonderful Singing Frog Gardens](https://irelandeats.com/the-weird-and-wonderful-singing-frog-gardens/) (Nov 2021)
 
