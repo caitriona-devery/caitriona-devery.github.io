@@ -6,17 +6,6 @@ order: 3
 ---
 
 
-<img align="right" src="/image/nervous_state.png" img style="padding: 15px"/> 
-### Nervous State 
-Show on Dublin Digital Radio (2020-ongoing) <br>
-Caitríona is part of the team behind [Nervous State](http://https://listen.dublindigitalradio.com/resident/nervous-state/), a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio.
-<br>
-<br>
-[Listen back on Spotify](https://open.spotify.com/show/6QCLihiOcZEZQOg12YUcDm?si=cfc2d62fe0764845) (also available on other podcast sites). 
-
-<br>
-<br>
-
 
 <img align="right" src="/image/EarthTalks.png" img style="padding: 15px"/>
 ### Earth Talks
@@ -25,6 +14,16 @@ Conversations with researchers from UCD Earth Institute (2020-ongoing)
 Interviews with researchers from science, engineering, arts, humanities and social sciences exploring how research is tackling some of the big environmental challenges of our time. <br><br>
 [earthtalks.ucd.ie](https://earthtalks.ucd.ie/)
 <br>
+<br>
+<br>
+<img align="right" src="/image/nervous_state.png" img style="padding: 15px"/> 
+### Nervous State 
+Show on Dublin Digital Radio (2020-2021) <br>
+Caitríona was part of the team behind [Nervous State](http://https://listen.dublindigitalradio.com/resident/nervous-state/), a monthly (or thereabouts) magazine show that offers critical transmissions on culture, politics, culture and journalism on Dublin Digital Radio.
+<br>
+<br>
+[Listen back on Spotify](https://open.spotify.com/show/6QCLihiOcZEZQOg12YUcDm?si=cfc2d62fe0764845) (also available on other podcast sites). 
+
 <br>
 <br>
 
