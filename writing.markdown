@@ -7,7 +7,7 @@ order: 2
 
 ### Char Magazine and District's Guide to Dublin City 
 
-Features and interviews for online food publication [Char](https://districtmagazine.ie/category/food/) and print magazine District's Guide to Dublin City
+Features and interviews for online food publication [Char](https://districtmagazine.ie/category/food/), print magazine District's Guide to Dublin City & District online
 
 <img align="right" src="/image/buckfast.png" title="artwork: Paul Smith" img style="padding: 10px"/>
 
