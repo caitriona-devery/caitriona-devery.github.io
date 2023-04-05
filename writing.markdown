@@ -5,9 +5,9 @@ permalink: /writing/
 order: 2
 ---
 
-### District Magazine: food features and interviews
+### Char Magazine and District's Guide to Dublin City 
 
-Food features for [District Magazine](https://districtmagazine.ie/) and its offshoot [Char](https://districtmagazine.ie/category/food/). 
+Features and interviews for [Char](https://districtmagazine.ie/category/food/) and print magazine District's Guide to Dublin City
 
 <img align="right" src="/image/buckfast.png" title="artwork: Paul Smith" img style="padding: 10px"/>
 
