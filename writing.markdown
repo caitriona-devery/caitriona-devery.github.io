@@ -32,6 +32,8 @@ Features and interviews for online food publication [Char](https://districtmagaz
 
 - [Na Séasúir: The pop-up serving up tongues and tripe](https://districtmagazine.ie/food/na-seasuir-the-pop-up-restaurant-serving-up-tongues-hearts-and-tripe/) (June 2019)
 
+- [The ethics of curiousity: interview with Jon Ronson](https://districtmagazine.ie/news/jon-ronson-on-the-ethics-of-curiosity/) (May 2019)
+
 - [Chef in focus: Holly Dalton](https://districtmagazine.ie/food/chef-in-focus-holly-dalton-gertrude/) (May 2019)
 
 - [Salad days: interview with Clair Dowling of Tiller and Grain](https://issuu.com/district.magazine/docs/may_19_guide_issuu/86) (May 2019)
@@ -39,12 +41,6 @@ Features and interviews for online food publication [Char](https://districtmagaz
 - [Making space: interview with Jennie Moran of Luncheonette](https://issuu.com/district.magazine/docs/april_19_guide_issuu/84) (Apr 2019)
 
 - [Lil Portie comes home: interview with Nick Reynolds](https://issuu.com/district.magazine/docs/district_guide_to_september_issuue/86) (Sep 2018)
-
-
-
-### Other features for District 
-
-- [The ethics of curiousity: interview with Jon Ronson](https://districtmagazine.ie/news/jon-ronson-on-the-ethics-of-curiosity/) (May 2019)
 
 - [Reproduction itself becomes more important than what is reproduced](https://districtmagazine.ie/news/caitriona-devery-reproduction-itself-becomes-more-important-than-what-is-reproduced/) (Aug 2017)
 
