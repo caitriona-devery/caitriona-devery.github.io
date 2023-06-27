@@ -6,7 +6,7 @@ order: 2
 ---
 ### VISUAL Carlow web article
 
-[Deirdre O’Mahony and The PLOT 1 at VISUAL Carlow](Deirdre O’Mahony and The PLOT 1 at VISUAL Carlow) (2021)
+[Deirdre O’Mahony and The PLOT 1 at VISUAL Carlow](https://visualcarlow.ie/news/deirdre-omahony-and-the-plot-1-at-visual-carlow) (2021)
 Article on artist Deirdre O'Mahony's PLOT 1 sainfoin planting at VISUAL, part of her Sustainment Experiments project.
 
 ### Char Magazine and District's Guide to Dublin City 
