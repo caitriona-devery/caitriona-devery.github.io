@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 ---
 
-<img align="left" src="/image/caitriona_guinness.jpg" img style="padding: 15px"/>
+
 
 Caitríona Devery is a writer and research manager with interests in food, art, heritage, community and the environment. 
 
