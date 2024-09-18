@@ -9,7 +9,7 @@ order: 4
 <br><br>
 Email: [caitrionadevery@gmail.com](caitrionadevery@gmail.com)
 
-Twitter: [everytreecat](https://twitter.com/everytreecat)  
+Twitter: [caitrionadevery](https://twitter.com/everytreecat)  
 
 Instagram: [everytreecat](https://www.instagram.com/everytreecat/?hl=en)
 
