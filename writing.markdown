@@ -62,7 +62,7 @@ FEAST was set up by Laura Mansfield and has evolved from a series of printed pub
 
 - [Salt shakers: on salt in cocktails](https://feastjournal.co.uk/article/salt-shakers/) (Feb 2020)
 
-- [Bittersweet beet: a history of Irish sugar](https://feastjournal.co.uk/article/bittersweet-beet-a-history-of-irish-sugar/) (July 2019)
+- [Bittersweet beet: a history of Irish sugar](https://archive.feastjournal.co.uk/article/bittersweet-beet-a-history-of-irish-sugar/) (July 2019)
 
 - [The sweetest feeling](https://feastjournal.co.uk/article/the-sweetest-feeling/), with Stephen Barrett (July 2019)
 
