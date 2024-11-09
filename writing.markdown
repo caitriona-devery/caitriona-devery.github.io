@@ -6,7 +6,7 @@ order: 2
 ---
 ### Writing for artist Deirdre O'Mahony
 
-Interviews with farmers and editorial article for ['The Quickening'](https://deirdre-omahony.ie/wp-content/uploads/2024/08/The-Quickening-Master-PRINT-compressed-copy.pdf) newspaper (March 2024), a paper about farming, food production and food policy as part of 'The Quickening' exhibition by Deirdre O'Mahony at the Douglas Hyde gallery 
+Interviews with farmers and editorial article for ['The Quickening'](https://deirdre-omahony.ie/wp-content/uploads/2024/08/The-Quickening-Master-PRINT-compressed-copy.pdf) newspaper (March 2024), a paper about farming, food production and food policy as part of ['The Quickening'](https://thedouglashyde.ie/exhibition/deirdre-omahony/) exhibition by Deirdre O'Mahony at the Douglas Hyde gallery 
 
 [Deirdre O’Mahony and The PLOT 1 at VISUAL Carlow](https://visualcarlow.ie/news/deirdre-omahony-and-the-plot-1-at-visual-carlow) (2021)
 Article on artist Deirdre O'Mahony's PLOT 1 sainfoin planting at VISUAL, part of her Sustainment Experiments project.
