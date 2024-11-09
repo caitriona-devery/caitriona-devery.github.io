@@ -4,7 +4,9 @@ title: Writing
 permalink: /writing/
 order: 2
 ---
-### VISUAL Carlow web article
+### Writing for artist Deirdre O'Mahony
+
+Interviews with farmers and editorial article for ['The Quickening'](https://deirdre-omahony.ie/wp-content/uploads/2024/08/The-Quickening-Master-PRINT-compressed-copy.pdf) newspaper (March 2024), a paper about farming, food production and food policy as part of 'The Quickening' exhibition by Deirdre O'Mahony at the Douglas Hyde gallery 
 
 [Deirdre O’Mahony and The PLOT 1 at VISUAL Carlow](https://visualcarlow.ie/news/deirdre-omahony-and-the-plot-1-at-visual-carlow) (2021)
 Article on artist Deirdre O'Mahony's PLOT 1 sainfoin planting at VISUAL, part of her Sustainment Experiments project.
@@ -54,23 +56,23 @@ Features and interviews for online food publication [Char](https://districtmagaz
 Caitríona was a contributing editor for [FEAST Journal](http://feastjournal.co.uk/) until 2021. 
 FEAST was set up by Laura Mansfield and has evolved from a series of printed publications to include events, exhibitions and artists commissions centred around the making, sharing and consuming of food. Selected articles:
 
-- [Mixing it up: learning English through food with Heart & Parcel](http://s3-eu-west-1.amazonaws.com/feastassets/issues/Feast_SPICE.pdf) (Jan 2021)
+- [Mixing it up: learning English through food with Heart & Parcel](https://archive.feastjournal.co.uk/article/mixing-it-up-learning-english-with-heart-parcel/) (Jan 2021)
 
 <img align="right" src="/image/siucra.png" title="Siucra illustration by Fingerdoodles" img style="padding: 10px"/>
 
-- [Preserving salts: on culinary salt](https://feastjournal.co.uk/article/savouring-salts-the-journey-of-culinary-salt/) (Feb 2020)
+- [Preserving salts: on culinary salt](https://archive.feastjournal.co.uk/article/savouring-salts-the-journey-of-culinary-salt/) (Feb 2020)
 
-- [Salt shakers: on salt in cocktails](https://feastjournal.co.uk/article/salt-shakers/) (Feb 2020)
+- [Salt shakers: on salt in cocktails](https://archive.feastjournal.co.uk/article/salt-shakers/) (Feb 2020)
 
 - [Bittersweet beet: a history of Irish sugar](https://archive.feastjournal.co.uk/article/bittersweet-beet-a-history-of-irish-sugar/) (July 2019)
 
-- [The sweetest feeling](https://feastjournal.co.uk/article/the-sweetest-feeling/), with Stephen Barrett (July 2019)
+- [The sweetest feeling](https://archive.feastjournal.co.uk/article/the-sweetest-feeling/), with Stephen Barrett (July 2019)
 
-- [Playing chicken: on London's Chicken Connoisseur](https://feastjournal.co.uk/article/playing-chicken/) (July 2018)
+- [Playing chicken: on London's Chicken Connoisseur](https://archive.feastjournal.co.uk/article/playing-chicken/) (July 2018)
 
-- [“From the kitchen to the table to the streets”. The meal as a tool for social justice](https://feastjournal.co.uk/article/from-the-kitchen-to-the-table-to-the-streets-the-meal-as-a-tool-for-social-justice/), with Laura Mansfield (2017)
+- [“From the kitchen to the table to the streets”. The meal as a tool for social justice](https://archive.feastjournal.co.uk/article/from-the-kitchen-to-the-table-to-the-streets-the-meal-as-a-tool-for-social-justice/), with Laura Mansfield (2017)
 
-- [Restaurants and cafes: publics and politics](https://feastjournal.co.uk/article/restaurants-and-cafes-publics-and-politics/) (2017)
+- [Restaurants and cafes: publics and politics](https://archive.feastjournal.co.uk/article/restaurants-and-cafes-publics-and-politics/) (2017)
 
 
 
